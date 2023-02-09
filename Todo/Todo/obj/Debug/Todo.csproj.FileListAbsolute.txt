@@ -1,0 +1,8 @@
+E:\cooding\to-do-list\Todo\Todo\bin\Debug\Todo.exe.config
+E:\cooding\to-do-list\Todo\Todo\bin\Debug\Todo.exe
+E:\cooding\to-do-list\Todo\Todo\bin\Debug\Todo.pdb
+E:\cooding\to-do-list\Todo\Todo\obj\Debug\Todo.csproj.AssemblyReference.cache
+E:\cooding\to-do-list\Todo\Todo\obj\Debug\Todo.csproj.SuggestedBindingRedirects.cache
+E:\cooding\to-do-list\Todo\Todo\obj\Debug\Todo.csproj.CoreCompileInputs.cache
+E:\cooding\to-do-list\Todo\Todo\obj\Debug\Todo.exe
+E:\cooding\to-do-list\Todo\Todo\obj\Debug\Todo.pdb
